@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Home"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="36.385">
+  <properties />
+  
+  
+            <testcase name="testFindByLocation" time="11.484" classname="com.jobspandora.selenium.test.HomeTest" />
+                <testcase name="testCountryDropDown" time="24.901" classname="com.jobspandora.selenium.test.HomeTest" />
+      
+</testsuite>
